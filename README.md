@@ -1,6 +1,6 @@
 # work-scheduler
 ## purpose 
-* a website where you can add daily tasks into a 9 ro 5 work schedule
+a website where you can add daily tasks into a 9 to 5 work schedule
 ## built with
 * HTML
 * CSS
